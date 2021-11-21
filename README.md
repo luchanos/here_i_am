@@ -4,3 +4,4 @@
 У меня есть свой канал на youtube, с которым вы можете ознакомиться вот тут:
 <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1&mute=1">
 </iframe>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
