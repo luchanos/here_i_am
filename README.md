@@ -27,9 +27,9 @@
 До 2018 года работал инженером лабораторного медициского оборудования. С 2016 начал активно увлекаться программированием 
 и решил связать с этим свой дальнейший трудовой путь, в связи с чем в ноябре 2017 уволился с работы, засел дома и 
 стал активно изучать Python.
-
-- <a href=https://rambler-co.ru/>Rambler Group</a> - инженер-разработчик Python (апрель 2018 - июль 2018)
-<p><img src="https://static.tildacdn.com/tild3230-6533-4234-b861-386363356133/logo.png" alt="drawing" width="100"/>
+<p>
+<a href="https://rambler-co.ru/"><img alt="Rambler Group" src="https://static.tildacdn.com/tild3230-6533-4234-b861-386363356133/logo.png"
+         width=100"></a>
 </p>
 <div><b>Обязанности:</b></div>
 <p>
@@ -44,7 +44,9 @@
 </p>
 
 <a href=https://domclick.ru/>Домклик</a> - разработчик / ведущий разработчик / главный инженер по разработке (август 2018 - н.в.)
-<p><img src="https://domclick.ru/homepage-confered/og_logo_new.png" alt="drawing" width="100"/>
+<p>
+<a href="https://www.domclick.ru"><img alt="Domclick" src="https://domclick.ru/homepage-confered/og_logo_new.png"
+         width=100"></a>
 </p>
 <p><b>Обязанности:</b></p>
 
