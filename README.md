@@ -1,18 +1,4 @@
 # А вот и я!
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
-
-</p>
-</details>
-
-
 <p>
 <img src="https://sun9-40.userapi.com/impg/c854220/v854220417/177618/CNRgoIT-Hnk.jpg?size=1280x720&quality=96&sign=ba7063584c8305e0084f172e19bbbe6e&type=album" alt="drawing" width="500"/>
 </p>
@@ -89,11 +75,18 @@
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣️⬛️⬛️⬛️
 
+<details><summary>подробнее...</summary>
+<p>
+
     - уверенно знаю синтаксис и основные инструметы для работы с кодовой базой: IDE Pycharm, линтеры, инструменты 
     типизации
     - генераторы, декораторы, менеджеры контекста для меня не проблема
     - могу рассказать и показать на практике что такое ООП и зачем оно нужно
     - пишу много асинхронного кода
+
+</p>
+</details>
+   
 - PostgreSQL 
 
 0️⃣1️⃣2️⃣3️⃣⬛️⬛️⬛️⬛️⬛️⬛️
