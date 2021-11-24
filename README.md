@@ -1,4 +1,18 @@
 # А вот и я!
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+
+
 <p>
 <img src="https://sun9-40.userapi.com/impg/c854220/v854220417/177618/CNRgoIT-Hnk.jpg?size=1280x720&quality=96&sign=ba7063584c8305e0084f172e19bbbe6e&type=album" alt="drawing" width="500"/>
 </p>
