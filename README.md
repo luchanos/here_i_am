@@ -71,7 +71,7 @@
 [К оглавлению](#content)
 
 # Stack
-- Python3 
+- Python3 🐍
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣️⬛️⬛️⬛️
 
@@ -87,7 +87,7 @@
 </p>
 </details>
    
-- PostgreSQL 
+- PostgreSQL 🐘
 
 0️⃣1️⃣2️⃣3️⃣⬛️⬛️⬛️⬛️⬛️⬛️
 
@@ -102,7 +102,7 @@
 </p>
 </details>
 
-- Elasticsearch 
+- Elasticsearch 🧶
 
 0️⃣1️⃣2️⃣⬛️⬛️⬛️⬛️⬛️⬛️⬛️
 
@@ -115,7 +115,7 @@
 </p>
 </details>
 
-- Git 
+- Git 🌳
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣⬛️⬛️⬛️⬛
 
@@ -127,7 +127,7 @@
 </p>
 </details>
 
-- Docker 
+- Docker 📦
 
 0️⃣1️⃣2️⃣3️⃣4️⃣⬛⬛⬛⬛⬛
 
@@ -140,7 +140,7 @@
 </p>
 </details>
 
-- RabbitMQ 
+- RabbitMQ 🐰
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣⬛️⬛️⬛️⬛
 
