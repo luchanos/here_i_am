@@ -196,5 +196,6 @@
 # My-habr-articles
 - <a href=https://habr.com/ru/company/domclick/blog/572272/>Хватит клепать псевдопрограммистов, или «Горшочек — не в IT!»</a>
 - <a href=https://habr.com/ru/company/domclick/blog/560300/>Генераторы для самых маленьких</a>
+- <a href=https://habr.com/ru/company/domclick/blog/593777/>Как вы относитесь к переработкам?</a>
 
 [К оглавлению](#content)
