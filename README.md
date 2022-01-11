@@ -33,7 +33,7 @@
 и решил связать с этим свой дальнейший трудовой путь, в связи с чем в ноябре 2018 уволился с работы, засел дома и 
 стал активно изучать Python.
 
-<a href=https://rambler-co.ru/>Rambler Group</a> - инженер-разработчик Python (апрель 2018 - июль 2018)
+<a href=https://rambler-co.ru/>Rambler Group</a> - инженер-разработчик Python (апрель 2019 - июль 2019)
 
 <p>
 <a href="https://rambler-co.ru/"><img alt="Rambler Group" src="https://static.tildacdn.com/tild3230-6533-4234-b861-386363356133/logo.png"
@@ -51,7 +51,7 @@
 
 </p>
 
-<a href=https://domclick.ru/>Домклик</a> - разработчик / ведущий разработчик / главный инженер по разработке (август 2018 - н.в.)
+<a href=https://domclick.ru/>Домклик</a> - разработчик / ведущий разработчик / главный инженер по разработке (август 2019 - н.в.)
 <p>
 <a href="https://www.domclick.ru"><img alt="Domclick" src="https://domclick.ru/homepage-confered/og_logo_new.png"
          width=100"></a>
