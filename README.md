@@ -71,7 +71,7 @@
 
 # Stack
 
-<h3>Python3 🐍 (asyncio/aiohttp/sanic/fastapi/pytest/marshmallow)</h3>
+<h3>Python3 🐍 (asyncio/aiohttp/sanic/flask/django/fastapi/pytest/marshmallow)</h3>
 
 0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣️⬛️⬛️⬛️
 
