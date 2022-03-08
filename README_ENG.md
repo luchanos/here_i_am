@@ -69,46 +69,28 @@ Since 2018 coding become my main job.
 # Stack
 
 <h3>Python3 🐍 (asyncio/aiohttp/sanic/flask/django/pytest/marshmallow)</h3>
-
-0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣️7️⃣8️⃣⬛️
    
 <h3>PostgreSQL 🐘</h3>
-
-0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣⬛️⬛️⬛️⬛️
 
 - writing and profiling queries;
 - normalization, indexing, migration;
 
 <h3>Elasticsearch 🧶</h3>
 
-0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣️⬛️⬛️⬛️
-
 - search and aggregations query creation;
 - clustering, sharding, replication adjustment;
 
 <h3>RabbitMQ 🐰</h3>
 
-0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣⬛️⬛️⬛️⬛
-
 <h3>Kubernetes 🧊</h3>
-
-0️⃣1️⃣2️⃣3️⃣⬛️⬛️⬛️⬛️⬛️⬛
 
 <h3>Nginx :atom:</h3>
 
-0️⃣1️⃣2️⃣3️⃣⬛️⬛️⬛️⬛️⬛️⬛
-
 <h3>Git 🌳</h3>
-
-0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣️⬛️⬛️⬛
 
 <h3>Docker 📦</h3>
 
-0️⃣1️⃣2️⃣3️⃣4️⃣⬛⬛⬛⬛⬛
-
 <h3>English 🇬🇧</h3>
-
-0️⃣1️⃣2️⃣3️⃣4️⃣5️⃣6️⃣️⬛️⬛️⬛️
 
 - Advanced.
     
