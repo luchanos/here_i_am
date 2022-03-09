@@ -16,7 +16,7 @@ If you're come to that page, you may be interested in some information about me)
 - [Career](#career)
 - [Stack](#stack)
 - [Soft skills](#soft_skills)
-- [Personal achievements](#personal-achievements)
+- [Personal achievements](#personal_achievements)
 - [Teaching](#teaching)
 
 # About
