@@ -21,7 +21,7 @@ If you're come to that page, you may be interested in some information about me)
 
 # About
 - Born: 1991
-- Accomodation: <temporary without solid>
+- Accomodation: <temporary without permanent accomodation>
 - Education: Bauman Moscow State Technical University, Biomedical Technics faculty, Biomedical Technical Systems (2014)
 
 [To the content](#content)
@@ -48,7 +48,7 @@ Since 2018 coding become my main job.
 
 </p>
 
-<a href=https://domclick.ru/>Домклик</a> - разработчик / ведущий разработчик / главный инженер по разработке (август 2019 - н.в.)
+<a href=https://domclick.ru/>Domclick</a> - Python Developer / Senior Python Developer (August 2019 - March 2022)
 <p>
 <a href="https://www.domclick.ru"><img alt="Domclick" src="https://domclick.ru/homepage-confered/og_logo_new.png"
          width=100"></a>
@@ -72,23 +72,100 @@ Since 2018 coding become my main job.
    
 <h3>PostgreSQL 🐘</h3>
 
-- writing and profiling queries;
-- normalization, indexing, migration;
+<details><summary>more about typical tasks...</summary>
+<p>
+
+     - writing and profiling queries;
+     - normalization, indexing, migration;
+    
+     Typical tasks:
+     1. Safety adding new column/table
+     2. Code review of queries
+
+</p>
+</details>
 
 <h3>Elasticsearch 🧶</h3>
 
-- search and aggregations query creation;
-- clustering, sharding, replication adjustment;
+<details><summary>more about typical tasks...</summary>
+<p>
+
+    - search and aggregations query creation
+    - mappings adjustment
+    - clusters adjustments: sharding, replication
+    - hightload testing
+    - performing data migration
+
+    Typical tasks:
+    1. Adding new field for the endpoint: for that we need to make some
+    modifications in codebase of web app and add to the index mapping
+    new field with correct type. Furthermore we need to reindex all 
+    of the documents.
+    2. Adding the new aggregation. We need to have durable cluster at the 
+    prime time moment.
+    3. Creation durable system for unavailiable cases of main host. Solved by
+    creation of second shoulder of Elasticsearch and by adjustment of nodes,
+    shards and replicas.
+    
+</p>
+</details>
 
 <h3>RabbitMQ 🐰</h3>
 
+<details><summary>more about typical tasks...</summary>
+<p>
+
+    - queues and exchanges creation for tasks service management and priority
+    
+    Typical task: create message sender/consumer for event management
+    between services.
+    
+</p>
+</details>
+
 <h3>Kubernetes 🧊</h3>
+
+<details><summary>more about typical tasks...</summary>
+<p>
+
+    - basic level hands-on
+    
+    Typical tasks:
+    1. Scale up/down the number of nodes of the service
+    2. Container command execution
+    
+</p>
+</details>
 
 <h3>Nginx :atom:</h3>
 
-<h3>Git 🌳</h3>
+<details><summary>more about typical tasks...</summary>
+<p>
+
+    - basic level hands-on
+    
+    Typical tasks:
+    1. Adding cache layer
+    2. Endpoint coverage by VPN
+    
+</p>
+</details>
 
 <h3>Docker 📦</h3>
+
+<details><summary>more about typical tasks...</summary>
+<p>
+
+    - basic level hands-on
+    
+    Typical tasks:
+    1. Dockerfiles и docker-compose.yml writing
+    2. Working with Docker registry: base image refreshing, e.t.c
+    
+</p>
+</details>
+
+<h3>Git 🌳</h3>
 
 <h3>English 🇬🇧</h3>
 
