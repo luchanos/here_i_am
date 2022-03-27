@@ -51,7 +51,7 @@
 
 </p>
 
-<a href=https://domclick.ru/>Домклик</a> - разработчик / ведущий разработчик / главный инженер по разработке (август 2019 - н.в.)
+<a href=https://domclick.ru/>Домклик</a> - разработчик / ведущий разработчик / главный инженер по разработке (август 2019 - март 2022)
 <p>
 <a href="https://www.domclick.ru"><img alt="Domclick" src="https://domclick.ru/homepage-confered/og_logo_new.png"
          width=100"></a>
