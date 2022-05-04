@@ -48,6 +48,22 @@ Since 2018 coding become my main job.
 
 </p>
 
+<a href=https://arrival.com/>Arrival</a> - Backend Developer (апрель 2022 - н.в.)
+<p>
+<a href="https://arrival.com/"><img alt="Arrival" src="https://iconape.com/wp-content/files/yc/21175/svg/arrival.svg"
+         width=100"></a>
+</p>
+<p><b>Responsibilities:</b></p>
+
+- API creation for high loading web services of cloud on Python / Go;
+- Participating in architecture solution;
+- Testing and code reviewing;
+- Technical documentation writing;
+- Backlog formation;
+- Agile SCRUM events facilitation;
+- Conducting of technical interview;
+- New teammates onbarding;
+
 <a href=https://domclick.ru/>Domclick</a> - Python Developer / Senior Python Developer (August 2019 - March 2022)
 <p>
 <a href="https://www.domclick.ru"><img alt="Domclick" src="https://domclick.ru/homepage-confered/og_logo_new.png"
