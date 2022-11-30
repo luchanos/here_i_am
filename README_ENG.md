@@ -51,7 +51,7 @@ Since 2018 coding become my main job.
 
 <a href=https://domclick.ru/>Domclick</a> - Python Developer / Senior Python Developer (August 2019 - March 2022)
 <p>
-<a href="https://www.domclick.ru"><img alt="Domclick" src="[https://domclick.ru/homepage-confered/og_logo_new.png](https://avatars.dzeninfra.ru/get-zen-logos/1520972/pub_5afaf70948c85e806b5f17da_60c32992389d441696c81aed/xxh)"
+<a href="https://www.domclick.ru"><img alt="Domclick" src="https://avatars.dzeninfra.ru/get-zen-logos/1520972/pub_5afaf70948c85e806b5f17da_60c32992389d441696c81aed/xxh"
          width=100"></a>
 </p>
 <p><b>Responsibilities:</b></p>
