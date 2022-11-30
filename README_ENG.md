@@ -1,6 +1,6 @@
 # Here I am!
 <p>
-<img src="https://sun9-40.userapi.com/impg/c854220/v854220417/177618/CNRgoIT-Hnk.jpg?size=1280x720&quality=96&sign=ba7063584c8305e0084f172e19bbbe6e&type=album](https://media-exp1.licdn.com/dms/image/C4E03AQEDBcTMFVmZQA/profile-displayphoto-shrink_800_800/0/1637513999050?e=1675296000&v=beta&t=k1oX7EXHlXUcwRTPWX_D7QtIdIXONGhpbP6K0aZy27s" alt="drawing" width="500"/>
+<img src="https://ibb.co/y0mpPWc" alt="drawing" width="500"/>
 </p>
 
 <p>
