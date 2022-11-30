@@ -191,23 +191,20 @@ Since 2018 coding become my main job.
 
 # Soft_Skills
 
-For a long time I used to be a service engineer. Due to my past responsible I have this soft skills:
-
-- I can find common language with different persons;
-- conflict solving;
-- leadership skills
+- Experience in conflict solving;
+- Leadership skills.
 
 [To the content](#content)
 
 # Personal_achievements
 
-I have personal reward from Vice President of Sberbank for my 2021 results estimation.
+- Personal reward from Vice President of Sberbank for 2021 results estimation.
+- Team personal reward for 2021 results estimation.
 
 [To the content](#content)
 
 # Teaching
 
-I have rich teaching experience. I have my own student team. We develop CRM for medical technical service.
-Furthermore I have my private mentoring program.
+I have valuable teaching and mentoring experience. I can create Python Backend courses for customer request.
 
 [To the content](#content)
