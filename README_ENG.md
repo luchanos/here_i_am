@@ -8,7 +8,11 @@ Hello! My name is Nikolai Sviridov! Let's get acquainted!
 </p>
 
 <p>
-If you're come to that page, you may be interested in some information about me:
+I am professional Python Backend Developer and Mentor. Former biomedical ingeneer. I combine the virtues of both a good technical specialist and a person who can think creatively and outside the box. I implemented and supported technically complex projects, created and managed a team of up to 7 people. Professional mentor and teacher of the Python language. I am developing my own educational youtube channel, which already has more than 10 thousand subscribers. Sertified SCRUM-master.
+</p>
+
+<p>
+Want to know more?
 </p>
 
 # Content
@@ -193,7 +197,9 @@ Since 2018 coding become my main job.
 # Soft_Skills
 
 - Experience in conflict solving;
-- Leadership skills.
+- Leadership skills;
+- Team creation;
+- Scrum-mastering;
 
 [To the content](#content)
 
