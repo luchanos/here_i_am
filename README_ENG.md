@@ -1,6 +1,6 @@
 # Here I am!
 <p>
-<img src="https://sun9-40.userapi.com/impg/c854220/v854220417/177618/CNRgoIT-Hnk.jpg?size=1280x720&quality=96&sign=ba7063584c8305e0084f172e19bbbe6e&type=album" alt="drawing" width="500"/>
+<img src="https://sun9-40.userapi.com/impg/c854220/v854220417/177618/CNRgoIT-Hnk.jpg?size=1280x720&quality=96&sign=ba7063584c8305e0084f172e19bbbe6e&type=album](https://media-exp1.licdn.com/dms/image/C4E03AQEDBcTMFVmZQA/profile-displayphoto-shrink_800_800/0/1637513999050?e=1675296000&v=beta&t=k1oX7EXHlXUcwRTPWX_D7QtIdIXONGhpbP6K0aZy27s" alt="drawing" width="500"/>
 </p>
 
 <p>
@@ -8,7 +8,7 @@ Hello! My name is Nikolai Sviridov! Let's get acquainted!
 </p>
 
 <p>
-If you're come to that page, you may be interested in some information about me)
+If you're come to that page, you may be interested in some information about me:
 </p>
 
 # Content
@@ -18,11 +18,12 @@ If you're come to that page, you may be interested in some information about me)
 - [Soft skills](#soft_skills)
 - [Personal achievements](#personal_achievements)
 - [Teaching](#teaching)
+- [Contacts](#contacts)
 
 # About
 - Born: 1991
 - Accomodation: <temporary without permanent accomodation>
-- Education: Bauman Moscow State Technical University, Biomedical Technics faculty, Biomedical Technical Systems (2014)
+- Education: Bauman Moscow State Technical University, Biomedical Technics faculty, Biomedical Technical Systems (2014), Specialist (Bachelor) 6 years studiyng
 
 [To the content](#content)
 
@@ -207,4 +208,11 @@ Since 2018 coding become my main job.
 
 I have valuable teaching and mentoring experience. I can create Python Backend courses for customer request.
 
+[To the content](#content)
+         
+# Contacts
+
+telegram - @luchanos
+linkedin - https://www.linkedin.com/in/luchanos
+         
 [To the content](#content)
