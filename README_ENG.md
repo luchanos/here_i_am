@@ -212,7 +212,7 @@ I have valuable teaching and mentoring experience. I can create Python Backend c
          
 # Contacts
 
-telegram - @luchanos
-linkedin - https://www.linkedin.com/in/luchanos
+- telegram - @luchanos
+- linkedin - https://www.linkedin.com/in/luchanos
          
 [To the content](#content)
