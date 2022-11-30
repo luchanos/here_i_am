@@ -4,12 +4,14 @@
 </p>
 
 <p>
+         
 - Professional Python Backend Developer and Mentor.
 - Combines the virtues of both a good technical specialist and a person who can think creatively and outside the box.
 - Implementes and supported technically complex projects, created and managed a team of up to 7 people.
 - Professional mentor and teacher of the Python language.
 - Have own more than 10 thousand subscribers <a href=https://youtube.com/luchanos/>youtube channel</a>.
 - Sertified SCRUM-master.
+- 
 </p>
 
 <p>
