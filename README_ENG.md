@@ -8,8 +8,11 @@ Hello! My name is Nikolai Sviridov! Let's get acquainted!
 </p>
 
 <p>
-I am professional Python Backend Developer and Mentor. Former biomedical ingeneer. I combine the virtues of both a good technical specialist and a person who can think creatively and outside the box. I implemented and supported technically complex projects, created and managed a team of up to 7 people. Professional mentor and teacher of the Python language. I am developing my own educational youtube channel, which already has more than 10 thousand subscribers. Sertified SCRUM-master.
+I am professional Python Backend Developer and Mentor. I combine the virtues of both a good technical specialist and a person who can think creatively and outside the box. I implemented and supported technically complex projects, created and managed a team of up to 7 people. Professional mentor and teacher of the Python language. I am developing my own educational youtube channel, which already has more than 10 thousand subscribers. Sertified SCRUM-master.
 </p>
+
+<a href=https://drive.google.com/file/d/1vgKv-YtpGDijxCwgJH2LIIhQ8TSeyV4e/view?usp=sharing>Get full CV in PDF</a>
+<a href=https://docs.google.com/document/d/1KANFevg3m7YiAIDuyW9aYtMRs_qsAv7S/edit?usp=sharing&ouid=111326368974092777603&rtpof=true&sd=true>Get full CV in Word</a>
 
 <p>
 Want to know more?
