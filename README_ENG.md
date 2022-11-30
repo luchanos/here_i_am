@@ -39,8 +39,6 @@ Want to know more?
 [To the content](#content)
 
 # Career
-Before I became a web-developer I was an engineer of laboratory medical devices. Since 2016 I'm in coding.
-Since 2018 coding become my main job.
 
 <a href=https://rambler-co.ru/>Rambler Group</a> - Python developer (April 2019 - July 2019)
 
@@ -59,6 +57,7 @@ Since 2018 coding become my main job.
 - Creation of technical documentation.
 
 </p>
+<hr><hr>
 
 <a href=https://domclick.ru/>Domclick</a> - Python Developer / Senior Python Developer (August 2019 - March 2022)
 <p>
