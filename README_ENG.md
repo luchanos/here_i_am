@@ -75,6 +75,8 @@ Want to know more?
 - Conducting of technical interview;
 - New teammates onbarding;
 
+<hr><hr>
+
 <a href=https://arrival.com/>Arrival</a> - Backend Developer (april 2022 - present)
 <p>
 <a href="https://arrival.com/"><img alt="Arrival" src="https://iconape.com/wp-content/files/yc/21175/svg/arrival.svg"
