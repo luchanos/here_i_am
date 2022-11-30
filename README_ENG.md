@@ -1,14 +1,10 @@
-# Here I am!
+# Nikolai Sviridov
 <p>
 <img src="https://sun9-4.userapi.com/impg/XiCnbA_oLSpItKIg1xtssiUb_0iKFu4M4yhCuQ/IEV32wlwS1M.jpg?size=220x218&quality=95&sign=07a30ba36a839132fcb2747d9909f0bf&type=album" alt="drawing"/ width=200>
 </p>
 
 <p>
-Hello! My name is Nikolai Sviridov! Let's get acquainted!
-</p>
-
-<p>
-I am professional Python Backend Developer and Mentor. I combine the virtues of both a good technical specialist and a person who can think creatively and outside the box. I implemented and supported technically complex projects, created and managed a team of up to 7 people. Professional mentor and teacher of the Python language. I am developing my own educational youtube channel, which already has more than 10 thousand subscribers. Sertified SCRUM-master.
+Professional Python Backend Developer and Mentor. Combines the virtues of both a good technical specialist and a person who can think creatively and outside the box. Implementes and supported technically complex projects, created and managed a team of up to 7 people. Professional mentor and teacher of the Python language. Have own youtube channel, which already has more than 10 thousand subscribers. Sertified SCRUM-master.
 </p>
 
 <p>
