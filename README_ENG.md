@@ -11,7 +11,7 @@
 - Professional mentor and teacher of the Python language.
 - Have own more than 10 thousand subscribers <a href=https://youtube.com/luchanos/>youtube channel</a>.
 - Sertified SCRUM-master.
-- 
+
 </p>
 
 <p>
