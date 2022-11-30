@@ -1,6 +1,6 @@
 # Here I am!
 <p>
-<img src="https://i.ibb.co/BLHG3q5/2022-11-30-19-36-03.png" alt="drawing"/>
+<img src="https://i.ibb.co/BLHG3q5/2022-11-30-19-36-03.png" alt="drawing"/ width=400>
 </p>
 
 <p>
