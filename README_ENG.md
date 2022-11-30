@@ -1,4 +1,4 @@
-# Nikolai Sviridov
+# Nikolai Sviridov | Job permission: Georgia / Russia
 <p>
 <img src="https://sun9-4.userapi.com/impg/XiCnbA_oLSpItKIg1xtssiUb_0iKFu4M4yhCuQ/IEV32wlwS1M.jpg?size=220x218&quality=95&sign=07a30ba36a839132fcb2747d9909f0bf&type=album" alt="drawing"/ width=200>
 </p>
